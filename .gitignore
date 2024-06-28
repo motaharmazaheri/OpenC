@@ -1,1 +1,5 @@
 *.bat
+/prome
+/loader
+/base
+empty.lua
